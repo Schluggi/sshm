@@ -1,0 +1,7 @@
+*.idea
+*~
+*.pyc
+__pycache__
+build/
+dist/
+sshm.egg-info/
