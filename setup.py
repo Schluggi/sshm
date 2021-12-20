@@ -13,7 +13,7 @@ setuptools.setup(
     description='Simple ssh menu',
     long_description=long_desc,
     long_description_content_type='text/markdown',
-    url='https://github.com/Schluggi/pymap-copy',
+    url='https://github.com/Schluggi/sshm',
     project_urls={
         'Source': 'https://github.com/Schluggi/sshm',
         'Tracker': 'https://github.com/Schluggi/sshm/issues',
